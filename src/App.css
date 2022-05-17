@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.colorChange{
+  background-color: #ffea00!important;
+  box-shadow: none!important;
+}
+.borderRadius{
+  border-radius: 8px;
+}
+.fs6{
+ font-size:  13px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.category{
+  display: inline-block;
+  
+}
+.paddingtop{
+  margin-top: 0px;
+}
+/* body{
+  overflow: hidden;
+} */
+.textCenter{
+ 
+  width: 150px;
+  display: inline-block;
+  word-spacing: 5px;
+}
+.w25{
+  font-size: 15px !important;
+}
+.fontSize{
+  font-size: 10px;
+}
